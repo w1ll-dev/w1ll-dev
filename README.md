@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Contact me on
-[LinkedIn](https://www.linkedin.com/in/will-marcio)
+[LinkedIn](https://www.linkedin.com/in/will-marcio).
 <br>
 See more about me on my 
-[Portifólio](https://will-site-76600.firebaseapp.com/)
+[Portifólio](https://will-site-76600.firebaseapp.com/).
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&show_icons=true&theme=algolia)
 <br>
