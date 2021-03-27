@@ -3,7 +3,7 @@
 Contact me on
 [LinkedIn](https://www.linkedin.com/in/will-marcio)
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 <details>
