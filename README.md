@@ -10,11 +10,17 @@ See more about me on my
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 <details>
   <summary><b>Preferred technologies...🖥</b> <i>(click to expand!)</i> </summary>
   <details>
-    <summary><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'/><i>(click to expand!)</i></summary>
+    <summary>
+      <img 
+        src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'
+        width='40'
+        height='40'
+       />
+      <i>(click to expand!)</i>
+    </summary>
     <p>
       With the react framework I build responsive applications following design patterns and that can use various types of features such as authentication, simultaneous update of data for various users, consumption of rest api, etc.
     </p>
