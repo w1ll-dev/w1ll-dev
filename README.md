@@ -12,7 +12,7 @@ See more about me on my
 <br>
 <details>
   <summary><b>Preferred technologies...🖥</b> <i>(click to expand!)</i></summary>
-  <details>
+  <details class="tab">
     <summary><b>React</b><i>(click to expand!)</i></summary>
     <p>
       With the react framework I build responsive applications following design patterns and that can use various types of features such as authentication,
@@ -24,3 +24,6 @@ See more about me on my
   <summary><b>My current job</b><i>(click to expand!)</i></summary>
       <p>I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain      <b>Globoplay</b> for smarttv, one of the most used applications in the country.</p>
 </details>
+<style type="text/css">
+ .tab { margin-left: 40px; }
+</style>
