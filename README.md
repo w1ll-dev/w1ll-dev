@@ -7,7 +7,7 @@ See more about me on my
 [Portifólio](https://will-site-76600.firebaseapp.com/).
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
 Here are some ideas to get you started:
 
