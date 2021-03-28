@@ -8,17 +8,15 @@ See more about me on my
 ### My stats 🎯
 <a href="https://www.adamalston.com/">
   <img 
-    height="137px" 
+    height="200px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia" 
    />
    <img 
-      height="137px" 
+      height="200px"
+      width="250px"  
       src="https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars" 
     />
 </a>
-
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
 
 <details>
