@@ -10,6 +10,7 @@ See more about me on my
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 <details>
   <summary><b>My current job...🖥</b> <i>(click to expand!)</i> </summary>
   <h3>Work...🖥</h3>
