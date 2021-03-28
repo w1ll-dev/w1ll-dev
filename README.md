@@ -15,7 +15,6 @@ See more about me on my
   <ul>
     <details>
     <summary><b>Flutter</b></summary>
-    <br>
     <ul>
       <p>
         With the flutter framwork of the dart I can build applications following design patterns and using smartphone features such as geolocation, local
@@ -25,7 +24,6 @@ See more about me on my
     </details>
     <details>
       <summary><b>React</b></summary>
-      <br>
       <ul>
         <p>
         With the react framework I build responsive applications following design patterns and that can use various types of features such as authentication,
@@ -35,7 +33,6 @@ See more about me on my
     </details>
     <details>
       <summary><b>Node</b></summary>
-      <br>
       <ul>
         <p>
           Using nodejs I am able to create rest apis that access, make changes to databases and provide this data through http routes, I can also add features
@@ -49,7 +46,6 @@ See more about me on my
 <details>
   <summary><b>My current job...💪</b><i>(click to expand!)</i></summary>
   <ul>
-    <br>
     <p>
       I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain
       <b>Globoplay</b> for smarttv, one of the most used applications in the country.
