@@ -10,7 +10,7 @@ See more about me on my
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
 <details>
-  <summary><b>Preferred technologies...🖥</b> <i>(click to expand!)</i></summary>
+  <summary><b>Preferred technologies...🖥</b></summary>
   <details class="tab">
     <summary><b>React</b><i>(click to expand!)</i></summary>
     <p>
