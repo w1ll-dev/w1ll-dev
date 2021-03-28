@@ -6,6 +6,17 @@ See more about me on my
 [Resume](https://will-site-76600.firebaseapp.com/).
 <br>
 ### My stats 🎯
+<a href="https://www.adamalston.com/">
+  <img 
+    height="137px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia" 
+   />
+   <img 
+      height="137px" 
+      src="https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars" 
+    />
+</a>
+
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
