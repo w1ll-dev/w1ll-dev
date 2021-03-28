@@ -1,3 +1,11 @@
+### Hi there 👋
+Contact me on
+[LinkedIn](https://www.linkedin.com/in/will-marcio).
+<br>
+See more about me on my 
+[Resume](https://will-site-76600.firebaseapp.com/).
+<br>
+
 ### My stats 🎯
 <a href="https://will-site-76600.firebaseapp.com/">
   <img 
@@ -10,14 +18,7 @@
     />
 </a>
 <br>
-
-### Hi there 👋
-Contact me on
-[LinkedIn](https://www.linkedin.com/in/will-marcio).
-<br>
-See more about me on my 
-[Resume](https://will-site-76600.firebaseapp.com/).
-<br>
+### More info about me 🤓
 
 <details>
   <summary><b>Preferred technologies...🖥</b><i>(click to expand!)</i></summary>
@@ -51,7 +52,7 @@ See more about me on my
     </details>
   <ul>
 </details>
-
+    
 <details>
   <summary><b>My current job...💪</b><i>(click to expand!)</i></summary>
   <ul>
