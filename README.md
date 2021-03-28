@@ -8,11 +8,11 @@ See more about me on my
 ### My stats 🎯
 <a href="https://www.adamalston.com/">
   <img 
-    height="165px"
+    height="167px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia" 
    />
    <img 
-      height="165px" 
+      height="167px" 
       src="https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars" 
     />
 </a>
