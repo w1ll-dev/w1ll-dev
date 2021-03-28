@@ -1,10 +1,3 @@
-### Hi there 👋
-Contact me on
-[LinkedIn](https://www.linkedin.com/in/will-marcio).
-<br>
-See more about me on my 
-[Resume](https://will-site-76600.firebaseapp.com/).
-<br>
 ### My stats 🎯
 <a href="https://will-site-76600.firebaseapp.com/">
   <img 
@@ -16,6 +9,14 @@ See more about me on my
       src="https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars" 
     />
 </a>
+<br>
+
+### Hi there 👋
+Contact me on
+[LinkedIn](https://www.linkedin.com/in/will-marcio).
+<br>
+See more about me on my 
+[Resume](https://will-site-76600.firebaseapp.com/).
 <br>
 
 <details>
