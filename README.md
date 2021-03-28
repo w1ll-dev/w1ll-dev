@@ -6,7 +6,7 @@ See more about me on my
 [Resume](https://will-site-76600.firebaseapp.com/).
 <br>
 ### My stats 🎯
-<a href="https://www.adamalston.com/">
+<a href="https://will-site-76600.firebaseapp.com/">
   <img 
     height="168px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia" 
