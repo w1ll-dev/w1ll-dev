@@ -14,21 +14,21 @@ See more about me on my
   <summary><b>Preferred technologies...🖥</b><i>(click to expand!)</i></summary>
   <ul>
     <details>
-    <summary><b>Flutter</b><i>(click to expand!)</i></summary>
+    <summary><b>Flutter</b></summary>
     <p>
       With the flutter framwork of the dart I can build applications following design patterns and using smartphone features such as geolocation, local
       authentication with biometrics and face id, consuming rest apis from the backend via http routes for example.
     </p>
     </details>
     <details>
-      <summary><b>React</b><i>(click to expand!)</i></summary>
+      <summary><b>React</b></summary>
       <p>
         With the react framework I build responsive applications following design patterns and that can use various types of features such as authentication,
         simultaneous update of data for various users, consumption of rest api, etc.
       </p>
     </details>
     <details>
-      <summary><b>Node</b><i>(click to expand!)</i></summary>
+      <summary><b>Node</b></summary>
       <p>
         Using nodejs I am able to create rest apis that access, make changes to databases and provide this data through http routes, I can also add features like
         authentication with jwt for example.
@@ -39,8 +39,10 @@ See more about me on my
 
 <details>
   <summary><b>My current job...💪</b><i>(click to expand!)</i></summary>
-  <p>
-    I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain
-    <b>Globoplay</b> for smarttv, one of the most used applications in the country.
-  </p>
+  <ul>
+    <p>
+      I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain
+      <b>Globoplay</b> for smarttv, one of the most used applications in the country.
+    </p>
+  </ul>
 </details>
