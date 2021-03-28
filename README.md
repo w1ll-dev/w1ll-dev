@@ -10,8 +10,9 @@ See more about me on my
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia)
 <br>
-Here are some ideas to get you started:
-
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  ### Work...
+  
+  I currently work as a <b>smarttv developer<b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain      <b>Globoplay</b> for smarttv, one of the most used applications in the country. 
 </details>
