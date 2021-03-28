@@ -12,6 +12,13 @@ See more about me on my
 <br>
 <details>
   <summary><b>Preferred technologies...🖥</b> <i>(click to expand!)</i></summary>
+  <details>
+    <summary><b>React</b><i>(click to expand!)</i></summary>
+    <p>
+      With the react framework I build responsive applications following design patterns and that can use various types of features such as authentication,
+      simultaneous update of data for various users, consumption of rest api, etc.
+    </p>
+  </details>
 </details>
 <details>
   <summary><b>My current job</b><i>(click to expand!)</i></summary>
