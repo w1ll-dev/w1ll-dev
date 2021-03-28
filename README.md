@@ -12,8 +12,7 @@ See more about me on my
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ll-dev&layout=compact&theme=algolia" 
    />
    <img 
-      height="200px"
-      width="250px"  
+      height="200px" 
       src="https://github-readme-stats.vercel.app/api?username=w1ll-dev&layout=compact&show_icons=true&theme=algolia&hide=stars" 
     />
 </a>
