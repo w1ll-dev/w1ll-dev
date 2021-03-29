@@ -9,7 +9,7 @@ See more about me on my
 ### My current job...💪
 <p>
   I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain
-  <b>Globoplay</b> for smarttv, one of the most used applications in the country.
+  <b>Globoplay</b>.
 </p>
 
 
