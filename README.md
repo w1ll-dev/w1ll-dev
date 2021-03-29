@@ -6,6 +6,13 @@ See more about me on my
 [Resume](https://will-site-76600.firebaseapp.com/).
 <br>
 
+### My current job...💪
+<p>
+  I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain
+  <b>Globoplay</b> for smarttv, one of the most used applications in the country.
+</p>
+
+
 ### My stats 🎯
 <a href="https://will-site-76600.firebaseapp.com/">
   <img 
@@ -54,12 +61,3 @@ See more about me on my
   <ul>
 </details>
     
-<details>
-  <summary><b>My current job...💪</b><i>(click to expand!)</i></summary>
-  <ul>
-    <p>
-      I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with the Globo network television we built and currently maintain
-      <b>Globoplay</b> for smarttv, one of the most used applications in the country.
-    </p>
-  </ul>
-</details>
