@@ -8,8 +8,7 @@ See more about me on my
 
 ### My current job...💪
 <p>
-  I currently work as a <b>smarttv developer</b> at <b>Mirakulo</b> software. Together with <b>Globo.com</b> we built and currently maintain
-  <b>Globoplay</b>.
+  I currently work as <b>mobile developer</b> at <b>Sparta labs</b>.
 </p>
 
 
